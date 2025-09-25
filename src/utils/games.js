@@ -16,12 +16,12 @@ const games = [
         isLiked: false,
         rating: 78,
         id: 0,
-        cover: "https://res.cloudinary.com/CodeWithSamzy/image/upload/c_scale,q_100,w_500/v1658188604/cyberpunk_n6jitl.jpg",
+        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188604/cyberpunk_n6jitl.jpg",
         footage: [
-            "https://res.cloudinary.com/CodeWithSamzy/image/upload/v1658188604/cyberpunk_n6jitl.jpg",
-            "https://res.cloudinary.com/CodeWithSamzy/image/upload/c_scale,q_100,w_1920/v1658235373/cyberpunk_1_s00vwf.jpg",
-            "https://res.cloudinary.com/CodeWithSamzy/image/upload/c_scale,q_100,w_1920/v1658235372/cyberpunk_2_mq46xm.jpg",
-            "https://res.cloudinary.com/CodeWithSamzy/image/upload/c_scale,q_100,w_1920/v1658235378/cyberpunk_3_fajdmi.jpg"
+            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188604/cyberpunk_n6jitl.jpg",
+            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658235373/cyberpunk_1_s00vwf.jpg",
+            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658235372/cyberpunk_2_mq46xm.jpg",
+            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658235378/cyberpunk_3_fajdmi.jpg"
         ]
     },
     {
@@ -41,12 +41,12 @@ const games = [
         isLiked: false,
         rating: 71,
         id: 1,
-        cover: "https://res.cloudinary.com/CodeWithSamzy/image/upload/c_scale,q_100,w_500/v1658188621/battlefield_n0gd5a.jpg",
+        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188621/battlefield_n0gd5a.jpg",
         footage: [
-            "https://res.cloudinary.com/CodeWithSamzy/image/upload/v1658188621/battlefield_n0gd5a.jpg",
-            "https://res.cloudinary.com/CodeWithSamzy/image/upload/v1658235437/battlefield_1_jpudhq.jpg",
-            "https://res.cloudinary.com/CodeWithSamzy/image/upload/v1658235437/battlefield_3_zy9ewv.jpg",
-            "https://res.cloudinary.com/CodeWithSamzy/image/upload/v1658235438/battlefield_2_txs230.jpg"
+            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188621/battlefield_n0gd5a.jpg",
+            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658235437/battlefield_1_jpudhq.jpg",
+            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658235437/battlefield_3_zy9ewv.jpg",
+            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658235438/battlefield_2_txs230.jpg"
         ]
     },
     {
@@ -66,12 +66,12 @@ const games = [
         isLiked: false,
         rating: 83,
         id: 2,
-        cover: "https://res.cloudinary.com/CodeWithSamzy/image/upload/c_scale,q_100,w_500/v1658188606/lis_ft0puo.jpg",
+        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188606/lis_ft0puo.jpg",
         footage: [
-            "https://res.cloudinary.com/CodeWithSamzy/image/upload/v1658188606/lis_ft0puo.jpg",
-            "https://res.cloudinary.com/CodeWithSamzy/image/upload/v1658236055/lis_1_rkrxt5.jpg",
-            "https://res.cloudinary.com/CodeWithSamzy/image/upload/v1658236272/lis_2_dcrdwz.jpg",
-            "https://res.cloudinary.com/CodeWithSamzy/image/upload/v1658236055/lis_3_komskf.jpg"
+            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188606/lis_ft0puo.jpg",
+            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236055/lis_1_rkrxt5.jpg",
+            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236272/lis_2_dcrdwz.jpg",
+            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236055/lis_3_komskf.jpg"
         ]
     },
     {
@@ -91,12 +91,12 @@ const games = [
         isLiked: false,
         rating: 84,
         id: 3,
-        cover: "https://res.cloudinary.com/CodeWithSamzy/image/upload/c_scale,q_100,w_500/v1658232678/mariokart_0_mhgbeg.jpg",
+        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658232678/mariokart_0_mhgbeg.jpg",
         footage: [
-            "https://res.cloudinary.com/CodeWithSamzy/image/upload/v1658232678/mariokart_0_mhgbeg.jpg",
-            "https://res.cloudinary.com/CodeWithSamzy/image/upload/c_scale,q_100,w_1920/v1658236315/mariokart_1_heekfq.jpg",
-            "https://res.cloudinary.com/CodeWithSamzy/image/upload/c_scale,q_100,w_1920/v1658236316/mariokart_3_yzhdje.jpg",
-            "https://res.cloudinary.com/CodeWithSamzy/image/upload/v1658236315/mariokart_2_peeyho.jpg"
+            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658232678/mariokart_0_mhgbeg.jpg",
+            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658236315/mariokart_1_heekfq.jpg",
+            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658236316/mariokart_3_yzhdje.jpg",
+            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236315/mariokart_2_peeyho.jpg"
         ]
     },
     {
@@ -116,12 +116,12 @@ const games = [
         isLiked: false,
         rating: 86,
         id: 4,
-        cover: "https://res.cloudinary.com/CodeWithSamzy/image/upload/c_scale,q_100,w_500/v1658188602/bioshockinfinite_qyo3pi.jpg",
+        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188602/bioshockinfinite_qyo3pi.jpg",
         footage: [
-            "https://res.cloudinary.com/CodeWithSamzy/image/upload/v1658188602/bioshockinfinite_qyo3pi.jpg",
-            "https://res.cloudinary.com/CodeWithSamzy/image/upload/v1658236359/bioshockinfinite_1_vutin0.jpg",
-            "https://res.cloudinary.com/CodeWithSamzy/image/upload/v1658236360/bioshockinfinite_2_bphusb.jpg",
-            "https://res.cloudinary.com/CodeWithSamzy/image/upload/v1658236361/bioshockinfinite_3_v1ckvh.jpg"
+            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188602/bioshockinfinite_qyo3pi.jpg",
+            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236359/bioshockinfinite_1_vutin0.jpg",
+            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236360/bioshockinfinite_2_bphusb.jpg",
+            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236361/bioshockinfinite_3_v1ckvh.jpg"
         ]
     },
     {
@@ -141,12 +141,12 @@ const games = [
         isLiked: false,
         rating: 81,
         id: 5,
-        cover: "https://res.cloudinary.com/CodeWithSamzy/image/upload/c_scale,q_100,w_500/v1658188622/anno_cbmzye.jpg",
+        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188622/anno_cbmzye.jpg",
         footage: [
-            "https://res.cloudinary.com/CodeWithSamzy/image/upload/v1658188622/anno_cbmzye.jpg",
-            "https://res.cloudinary.com/CodeWithSamzy/image/upload/v1658236405/anno_1_bpil6t.jpg",
-            "https://res.cloudinary.com/CodeWithSamzy/image/upload/c_scale,q_100,w_1920/v1658236405/anno_2_udh5ep.jpg",
-            "https://res.cloudinary.com/CodeWithSamzy/image/upload/v1658236405/anno_3_hoqcp0.jpg"
+            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658188622/anno_cbmzye.jpg",
+            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236405/anno_1_bpil6t.jpg",
+            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658236405/anno_2_udh5ep.jpg",
+            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236405/anno_3_hoqcp0.jpg"
         ]
     },
     {
@@ -166,12 +166,12 @@ const games = [
         isLiked: false,
         rating: 92,
         id: 6,
-        cover: "https://res.cloudinary.com/CodeWithSamzy/image/upload/c_scale,q_100,w_500/v1658188613/rdr_fhqs3d.jpg",
+        cover: "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_500/v1658188613/rdr_fhqs3d.jpg",
         footage: [
-            "https://res.cloudinary.com/CodeWithSamzy/image/upload/c_scale,w_1920/v1658188613/rdr_fhqs3d.jpg",
-            "https://res.cloudinary.com/CodeWithSamzy/image/upload/v1658236494/rdr_3_euhfwh.jpg",
-            "https://res.cloudinary.com/CodeWithSamzy/image/upload/c_scale,q_100,w_1920/v1658236495/rdr_2_aodums.jpg",
-            "https://res.cloudinary.com/CodeWithSamzy/image/upload/v1658236494/rdr_1_v6xhov.jpg"
+            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,w_1920/v1658188613/rdr_fhqs3d.jpg",
+            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236494/rdr_3_euhfwh.jpg",
+            "https://res.cloudinary.com/gianlucajahn/image/upload/c_scale,q_100,w_1920/v1658236495/rdr_2_aodums.jpg",
+            "https://res.cloudinary.com/gianlucajahn/image/upload/v1658236494/rdr_1_v6xhov.jpg"
         ]
     },
     {
